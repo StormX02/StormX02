@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m `Tuân Đỗ`
+# 👋 Hi there, I’m `Tuân Plus`
 - 👀 **I’m interested in C\C++ ,Java and Python language.**
 - 🌱 **I’m currently learning everything.**
 - ✔  **I'm Storm_X.**
